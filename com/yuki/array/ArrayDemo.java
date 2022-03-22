@@ -1,4 +1,4 @@
-package array;
+package com.yuki.array;
 
 public class ArrayDemo {
     //变量类型  变量名字 = 变量的值
