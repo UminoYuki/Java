@@ -26,6 +26,6 @@ public class ArrayDemo {
         for (int i =0; i<nums.length; i++){
             sum = sum + nums[i];
         }
-        System.out.println(sum);
+        System.out.println(sum); //55
     }
 }
